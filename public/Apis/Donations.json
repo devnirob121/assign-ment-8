@@ -1,0 +1,135 @@
+[
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/rtsrx82/Education.png",
+      "title": "Quality Education Program",
+      "category": "Education",
+      "category_bg_color": "#FFC3C5",
+      "card_bg_color": "#FF444A26",
+      "text_color": "#FF444A",
+      "description": "Empowering students with knowledge and skills through quality education. Bridging the gap in educational opportunities, we strive to create a brighter tomorrow for every child. Join us in our mission to shape young minds for a better future!",
+      "price": 1725.75
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/VMYNFRp/Food.png",
+      "title": "Community Garden Project",
+      "category": "Food",
+      "category_bg_color": "#fdd2c4",
+      "card_bg_color": "#F8714726",
+      "text_color": "#F87147",
+      "description": "Establishing community gardens to grow fresh produce and promote food security. Cultivating a sustainable future for our communities. Join us in the effort to provide access to nutritious, homegrown food!",
+      "price": 1245.75
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/xm6BRS5/Clothing.png",
+      "title": "Back-to-School Wardrobe",
+      "category": "Clothing",
+      "category_bg_color": "#d4ecc1",
+      "card_bg_color": "#79C23F26",
+      "text_color": "#79C23F",
+      "description": "Providing school clothing essentials for children to start the year with confidence. Ensuring every child feels prepared for the educational journey ahead. Join us in making a positive impact on young lives!",
+      "price": 2785.0
+    },
+    {
+      "id": 11,
+      "picture": "https://i.ibb.co/xm6BRS5/Clothing.png",
+      "title": "Professional Attire Drive",
+      "category": "Clothing",
+      "category_bg_color": "#d4ecc1",
+      "card_bg_color": "#79C23F26",
+      "text_color": "#79C23F",
+      "description": "Collecting business attire to empower individuals in their job search. Providing professional opportunities for those striving for success. Join us in dressing for a brighter future!",
+      "price": 1330.0
+    },
+    {
+      "id": 10,
+      "picture": "https://i.ibb.co/rtsrx82/Education.png",
+      "title": "STEM Learning Labs",
+      "category": "Education",
+      "category_bg_color": "#FFC3C5",
+      "card_bg_color": "#FF444A26",
+      "text_color": "#FF444A",
+      "description": "Promoting science, technology, engineering, and math education for young minds. Inspiring the next generation of innovators and problem solvers. Join us in advancing STEM education for all!",
+      "price": 2100.5
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/VMYNFRp/Food.png",
+      "title": "Nutritious Meals for All",
+      "category": "Food",
+      "category_bg_color": "#fdd2c4",
+      "card_bg_color": "#F8714726",
+      "text_color": "#F87147",
+      "description": "Ensuring everyone has access to healthy and balanced meals for a better future. Promoting nutrition and well-being in communities. Your support makes a significant impact. Join us in the fight against hunger!",
+      "price": 2450.0
+    },
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/zhn0DQ3/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg_color": "#aec8ff",
+      "card_bg_color": "#0052FF26",
+      "text_color": "#0052FF",
+      "description": "Providing clean and safe drinking water for children in underserved communities. Addressing water scarcity and ensuring a brighter, healthier future. Your support makes a significant impact. Together, we can make a difference. Join us today!",
+      "price": 815.5
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/rtsrx82/Education.png",
+      "title": "Scholarships for Bright Minds",
+      "category": "Education",
+      "category_bg_color": "#FFC3C5",
+      "card_bg_color": "#FF444A26",
+      "text_color": "#FF444A",
+      "description": "Opening doors to higher education for talented students through scholarships. Investing in the future leaders and innovators of our world. Join us in nurturing the brilliance within our youth!",
+      "price": 2110.25
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/xm6BRS5/Clothing.png",
+      "title": "Winter Clothing Drive",
+      "category": "Clothing",
+      "category_bg_color": "#d4ecc1",
+      "card_bg_color": "#79C23F26",
+      "text_color": "#79C23F",
+      "description": "Collecting warm clothing items for families in need during the winter season. Ensuring everyone stays warm and comfortable. Your contribution matters. Together, we can make a positive impact. Join us in spreading warmth!",
+      "price": 1299.99
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/VMYNFRp/Food.png",
+      "title": "School Lunch Program",
+      "category": "Food",
+      "category_bg_color": "#fdd2c4",
+      "card_bg_color": "#F8714726",
+      "text_color": "#F87147",
+      "description": "Providing nutritious lunches to schoolchildren for a brighter future. Ensuring every child has the fuel they need to excel in their studies. Join us in nourishing young minds!",
+      "price": 950.0
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/zhn0DQ3/Health.png",
+      "title": "Medical Outreach Program",
+      "category": "Health",
+      "category_bg_color": "#aec8ff",
+      "card_bg_color": "#0052FF26",
+      "text_color": "#0052FF",
+      "description": "Bringing medical care and essential supplies to communities in need. Extending a helping hand to those who need it most. Your support is a lifeline for those in crisis. Join us in providing hope and healing!",
+      "price": 2899.5
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/zhn0DQ3/Health.png",
+      "title": "Maternal Health Workshops",
+      "category": "Health",
+      "category_bg_color": "#aec8ff",
+      "card_bg_color": "#0052FF26",
+      "text_color": "#0052FF",
+      "description": "Educational workshops and support for expecting mothers and infants. Ensuring a healthy start for both mother and child. Join us in promoting maternal well-being and infant health!",
+      "price": 1025.0
+    }
+  ]
+

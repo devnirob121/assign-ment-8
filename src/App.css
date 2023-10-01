@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap");
+body {
+  font-family: "Inter", sans-serif;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.w-primary {
+  width: 1320px;
+}
+.active {
+  color: #ff444a;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: #ff444a;
+}
+.recharts-wrapper {
+  margin: auto;
+}
